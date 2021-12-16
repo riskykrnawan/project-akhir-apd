@@ -1,6 +1,6 @@
 # Algoritma & Pemrograman Dasar
 
-######(Semester 1)
+###### (Semester 1)
 
 ## Tugas Akhir Mata Kuliah Algoritma & Pemrograman Dasar
 
