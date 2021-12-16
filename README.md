@@ -1,6 +1,6 @@
 # Algoritma & Pemrograman Dasar
 
-(Semester 1)
+######(Semester 1)
 
 ## Tugas Akhir Mata Kuliah Algoritma & Pemrograman Dasar
 
@@ -11,6 +11,11 @@ Nama Anggota Kelompok:
 3. Mira Sartika Lengkong
 4. Olivia Oktavi Utami
 5. Sevina Avi Amalia
+
+
+
+
+
 
 
 Nama Anggota Kelompok Praktikum:
